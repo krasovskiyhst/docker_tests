@@ -1,0 +1,5 @@
+app/env/
+.git
+Dockerfile
+.env.prod
+.env.prod.db

@@ -1,6 +1,6 @@
 # образ на основе которого создаём контейнер
-# FROM python:3.10.2-alpine
-FROM python:3
+FROM python:3.10.2-alpine
+# FROM python:3
 
 # рабочая директория внутри проекта
 WORKDIR /usr/src/app
